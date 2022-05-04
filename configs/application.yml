@@ -1,0 +1,8 @@
+App:
+  UploadStoreUrl: store/upload
+  UploadServerUrl: http://localhost:8080/static
+  UploadMaxSize: 5 #MB
+  UploadPageSuffix:
+    - .jpg
+    - .png
+    - .jpeg
